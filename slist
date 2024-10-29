@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
+#EXTINF:-1 acestream-autosearch="1" group-title="Все на Матч!" tvg-id="Матч! Премьер HD",Матч! Премьер HD
+http://85.31.45.236:6878/ace/getstream?infohash=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+#EXTINF:-1 acestream-autosearch="1" group-title="Все на Матч!" tvg-id="Матч! Футбол 1 HD",Матч! Футбол 1 HD
+http://85.31.45.236:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012
+#EXTINF:-1 acestream-autosearch="1" group-title="Все на Матч!" tvg-id="Матч! Футбол 2 HD",Матч! Футбол 2 HD
+http://85.31.45.236:6878/ace/getstream?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96
+#EXTINF:-1 acestream-autosearch="1" group-title="Все на Матч!" tvg-id="Матч! Футбол 3 HD",Матч! Футбол 3 HD
+http://85.31.45.236:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787cee4e2333435
+#EXTINF:-1 acestream-autosearch="1" group-title="Все на Матч!" tvg-id="Матч! HD",Матч! HD
+http://85.31.45.236:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 acestream-autosearch="1" group-title="Сетанта Сортс",Setanta Sports 1
+http://85.31.45.236:6878/ace/getstream?infohash=626c5326f29984bbedceee04c9694a0447ba0a9a
+#EXTINF:-1 acestream-autosearch="1" group-title="Сетанта Сортс" tvg-id="setanta2-kz",Setanta Sports 2
+http://85.31.45.236:6878/ace/getstream?infohash=fded295edff9d57adb77cf02a08c5f2fcb9e608b
